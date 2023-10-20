@@ -12,7 +12,11 @@
 ![imageup.ru](https://imageup.ru/img252/4581275/st_bur_5s.jpg)
 </details>
 
+<details>
+<summary>Блок схема визуализации алгоритма выбора скорости</summary>
 
+![imageup.ru](https://imageup.ru/img252/4581275/st_bur_5s.jpg)
+</details>
 
 
 
