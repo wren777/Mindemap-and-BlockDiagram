@@ -7,7 +7,7 @@
 
 
 <details>
-<summary>Mindmap веб приложение StellarBurger</summary>
+<summary>Mindmap веб приложения StellarBurger</summary>
 
 ![imageup.ru](https://imageup.ru/img252/4581275/st_bur_5s.jpg)
 </details>
