@@ -2,7 +2,7 @@
 <details>
 <summary>Mindmap веб приложения Я Маршруты</summary>
 
-![imageup.ru](https://imageup.ru/img275/4581269/diagramma-sviazei-ia-marshruty.jpg)
+![imageup.ru](https://imageup.ru/img48/4583085/diagramma-bez-nazvaniia.jpg)
 </details>
 
 
