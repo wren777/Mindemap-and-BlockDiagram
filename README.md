@@ -1,4 +1,4 @@
-# Mindemap-and-BlockDiagram
+# Mindmap-and-BlockDiagram
 <details>
 <summary>Mindmap веб приложения Я Маршруты</summary>
 
