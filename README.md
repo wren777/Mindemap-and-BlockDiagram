@@ -1,7 +1,7 @@
 <details>
 <summary>Чек-лист верстки веб приложения Я Самокат</summary>
   
-![Checkone](https://i.ibb.co/FBKnPdJ/image.jpg)
+[![imageup.ru](https://imageup.ru/img17/4671183/image.jpg)](https://imageup.ru/img17/4671183/image.jpg.html)
 </details>
 
 <details>
